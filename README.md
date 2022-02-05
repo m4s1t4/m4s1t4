@@ -17,16 +17,13 @@
 </p>
 
 
-💪🏼 Actualmente estoy estudiando: **Django**.
-
-En el futuro prentendo estudiar: **Numpy, Pandas y algunos otros frameworks de Data Science**.
-
 🕵 Aprendí diferentes lenguajes y herramientas, entre ellos: 
 * HTML
 * CSS
 * Python
-* Flask (Un poco)
+* Flask
 * MySQL 
+* Django
 
 ⚡ Me gusta escuchar música, jugar a videojuegos, las carreras de F1, la ciencia, entre otros gustos
 
