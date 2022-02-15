@@ -24,10 +24,19 @@
 * Flask
 * MySQL 
 * Django
+* GIT
 
-⚡ Me gusta escuchar música, jugar a videojuegos, las carreras de F1, la ciencia, entre otros gustos
+🌱 Actualmente aprendiendo: Solidity, Web 3.0 development. 
+
+⚡ Me gusta escuchar música, las carreras de F1, la ciencia, entre otros gustos
 
 👩🏻 Entre mis hobbies se encuentran: leer libros, jugar videojuegos, escuchas música.
+
+
+📫 Mis Redes: 
+
+   * LindeInd: linkedin.com/in/josé-martín-rodriguez-mortaloni-2723a5204
+   * Correo: jmrodriguezm13@gmail.com
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -58,7 +67,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
