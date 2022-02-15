@@ -28,13 +28,15 @@
 
 🌱 Actualmente aprendiendo: Solidity, Web 3.0 development. 
 
+
 ⚡ Me gusta escuchar música, las carreras de F1, la ciencia, entre otros gustos
+
 
 👩🏻 Entre mis hobbies se encuentran: leer libros, jugar videojuegos, escuchas música.
 
 
-📫 Mis Redes: 
 
+📫 Mis Redes: 
    * LindeInd: linkedin.com/in/josé-martín-rodriguez-mortaloni-2723a5204
    * Correo: jmrodriguezm13@gmail.com
 
