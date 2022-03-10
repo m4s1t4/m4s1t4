@@ -1,9 +1,9 @@
 <p align="center" width="300">
    </>
-   <h3 align="center">¡Hey 👋! Soy José Martín</h3>
+   <h3 align="center">¡Hey 👋! I am José Martín</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Backend</strong> trainee.<br />
+<p align="center">I am <strong>self-taught</strong> developer <br />
 <p align="center">
     <a href="linkedin.com/in/josé-martín-rodriguez-mortaloni-2723a5204">
     <img align="center" alt="Jose's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,7 +17,7 @@
 </p>
 
 
-🕵 Aprendí diferentes lenguajes y herramientas, entre ellos: 
+🕵 Tecnologies that I know: 
 * HTML
 * CSS
 * Python
@@ -25,18 +25,14 @@
 * MySQL 
 * Django
 * GIT
-
-🌱 Actualmente aprendiendo: Solidity, Web 3.0 development. 
-
-
-⚡ Me gusta escuchar música, las carreras de F1, la ciencia, entre otros gustos
+* Soilidty
+* Hardhat 
 
 
-👩🏻 Entre mis hobbies se encuentran: leer libros, jugar videojuegos, escuchas música.
+⚡ I love listening music, watch F1 races, Ai, science,etc.
 
 
-
-📫 Mis Redes: 
+📫 Contract me: 
    * LindeInd: linkedin.com/in/josé-martín-rodriguez-mortaloni-2723a5204
    * Correo: jmrodriguezm13@gmail.com
 
