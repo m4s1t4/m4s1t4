@@ -33,8 +33,8 @@
 
 
 📫 Contract me: 
-   * LindeInd: linkedin.com/in/josé-martín-rodriguez-mortaloni-2723a5204
-   * Correo: jmrodriguezm13@gmail.com
+   * Linkedin: linkedin.com/in/josé-martín-rodriguez-mortaloni-2723a5204
+   * Mail: jmrodriguezm13@gmail.com
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
