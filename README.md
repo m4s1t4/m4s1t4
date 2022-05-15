@@ -26,7 +26,7 @@
 * Django
 * GIT
 * Soilidty
-* Hardhat 
+* Brownie
 
 
 ⚡ I love listening music, watch F1 races, Ai, science,etc.
