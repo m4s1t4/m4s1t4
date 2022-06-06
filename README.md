@@ -25,8 +25,11 @@
 * MySQL 
 * Django
 * GIT
-* Soilidty
-* Brownie
+* Pandas
+* Numpy
+* Spark
+* Scikit-learn
+* Matplotlib
 
 
 ⚡ I love listening music, watch F1 races, Ai, science,etc.
