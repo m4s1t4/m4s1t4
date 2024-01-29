@@ -18,12 +18,8 @@
 
 
 🕵 Tecnologies that I know: 
-* HTML
-* CSS
 * Python
-* Flask
 * MySQL 
-* Django
 * GIT
 * Pandas
 * Numpy
@@ -32,7 +28,7 @@
 * Matplotlib
 
 
-⚡ I love listening music, watch F1 races, Ai, science,etc.
+⚡ I love listening music, watch F1 races, Ai and science.
 
 
 📫 Contract me: 
