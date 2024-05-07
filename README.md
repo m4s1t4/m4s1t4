@@ -2,7 +2,7 @@
 ---
 
 # 💫 About Me:
-🔭 I’m studying Information Systems Engineering<br>👯 I’m looking to collaborate on Machine Learning projects<br>🌱 I’m currently learning AI Agents and others apps
+🔭 I’m studying Information Systems Engineering<br>👯 I’m looking to collaborate on Machine Learning projects<br>🌱 I’m currently learning AI Agents and others frameworks
 
 
 ## 🌐 Socials:
